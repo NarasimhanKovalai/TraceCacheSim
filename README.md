@@ -55,7 +55,7 @@ To run the simulator against several combinations of traces and cache configs, n
 
 ```bash
 chmod +x run_configs.sh
-./run_sim.sh
+./run_configs.sh
 ```
 
 To generate the corresponding plots after running it, run:
