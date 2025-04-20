@@ -1,0 +1,44 @@
+# Executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Libraries (static and shared)
+*.lib
+*.a
+*.so
+*.dylib
+*.dll
+
+# CMake build directory
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# Visual Studio Code specific files and directories
+.vscode/
+*.code-workspace
+
+# Virtual Environment directory
+.cacheenv
+
+# Editor temporary files
+*.swp
+*.swo
+.*.swp
+.*.swo
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
+
+# Other temporary files or directories
+temp_build/
+tmp/
+log/
+*.log
+results/
+traceinput/
